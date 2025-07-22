@@ -30,7 +30,7 @@
 #### 🔧 Backend & Dev Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,spring,mysql,postgres,azure" />
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,spring,mysql,postgres,azure,docker" />
 </p>
 
 
