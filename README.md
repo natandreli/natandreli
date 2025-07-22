@@ -1,10 +1,14 @@
-<h1 align="center">Hi! 👋 I'm Natalia García</h1>
+<h1  align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Natalia García</h1>
 
 <p align="center">
   <em>Full-Stack Developer</em> | <em>Clean Code Lover</em> | <em>Passionate about building useful things</em>
 </p>
 
 ### 🧠 About Me
+
+
+<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpjZnk5ZXdmNjZpYXA0bGlxcmJubGJsY2hiajNnZmhma2Q3OTdpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif"/>
+
 
 ```txt
 💻 Full-Stack Developer focused on building scalable, user-centered apps.
