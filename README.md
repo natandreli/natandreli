@@ -44,7 +44,6 @@
 <p align="left">
   <a href="mailto:ngarciarios2001@gmail.com"><img src="https://img.shields.io/badge/email-ngarciarios2001%40gmail.com-8A2BE2?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/natalia-andrea-garcia-rios/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/natandreli"><img src="https://img.shields.io/badge/GitHub-natandreli-333?style=flat&logo=github&logoColor=white"/></a>
 </p>
