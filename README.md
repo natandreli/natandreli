@@ -6,10 +6,6 @@
 
 ### 🧠 About Me
 
-
-<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpjZnk5ZXdmNjZpYXA0bGlxcmJubGJsY2hiajNnZmhma2Q3OTdpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif"/>
-
-
 ```txt
 💻 Full-Stack Developer focused on building scalable, user-centered apps.
 🌱 Passionate about clean architecture.
